@@ -8,7 +8,7 @@ token.ini
 comandos.txt
 
 # Ignore mm.spec file.
-mm.spec
+*.spec
 
 # ignore .venv/ directory.
 .venv/
