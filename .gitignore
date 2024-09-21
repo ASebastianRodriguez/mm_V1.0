@@ -1,0 +1,24 @@
+# Ignore cronograma_medicamentos.xlsx file.
+cronograma_medicamentos.xlsx
+
+# Ignore token.ini file.
+token.ini
+
+# Ignore comandos.txt file.
+comandos.txt
+
+# Ignore mm.spec file.
+mm.spec
+
+# ignore .venv/ directory.
+.venv/
+
+# Ignore .vscode/ directory.
+.vscode/
+
+# Ignore build/ directory.
+build/
+
+
+
+
